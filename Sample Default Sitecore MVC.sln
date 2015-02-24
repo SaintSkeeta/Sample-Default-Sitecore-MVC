@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Default Sitecore MVC", "Sample Default Sitecore MVC\Sample Default Sitecore MVC.csproj", "{8FA6228E-3A63-420C-9BF6-21A7E6E74ED7}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDS.Master", "TDS.Master\TDS.Master.scproj", "{A613CD72-DE8E-401E-A337-9F007A09D065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA6228E-3A63-420C-9BF6-21A7E6E74ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA6228E-3A63-420C-9BF6-21A7E6E74ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA6228E-3A63-420C-9BF6-21A7E6E74ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA6228E-3A63-420C-9BF6-21A7E6E74ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A613CD72-DE8E-401E-A337-9F007A09D065}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
